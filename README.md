@@ -13,7 +13,7 @@
 **MENTOR NAME**: Neela Santhosh Kumar
 
 # DESCRIPTION:
-# **COMPILER DESIGN BASCIS IN C LANGUAGE**  
+# **COMPILER DESIGN BASicS IN C LANGUAGE**  
 
 A **compiler** is a special program that translates code written in a high-level programming language (such as C, Java, or Python) into a lower-level language, such as machine code or assembly language, which a computer can execute. The process of translation involves several stages, ensuring the correctness and efficiency of the final executable program.  
 
@@ -55,3 +55,4 @@ While a **compiler** translates the entire code before execution, an **interpret
 Compiler design is a fundamental aspect of computer science that ensures the smooth translation of high-level code into machine-executable instructions. A well-structured compiler improves program efficiency, portability, and overall performance, making it a crucial component of software development.
 
 # OUTPUT:
+![Image](https://github.com/user-attachments/assets/010f88e0-1f56-4b3b-9519-88ea95e63175)
